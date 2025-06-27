@@ -85,3 +85,8 @@ This project is designed for data analytics portfolio purposes and aviation safe
 
 ---
 
+## 📄 License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You are free to view and share this work **with attribution**, but **not for commercial use or modification**.
